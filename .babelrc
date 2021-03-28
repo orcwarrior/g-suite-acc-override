@@ -1,0 +1,7 @@
+{
+  "presets": ["react-app"],
+  "plugins": [
+    "inline-react-svg",
+    "babel-plugin-named-asset-import"
+  ]
+}
